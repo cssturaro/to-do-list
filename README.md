@@ -4,7 +4,7 @@
 
 Este é um projeto de **API RESTful** desenvolvido com **Spring Boot** para gerenciar uma lista de tarefas. Ele foi criado com fins educacionais e práticos, servindo como base para o artigo explicativo sobre construção de APIs com Java e Spring Boot.
 
-📘 Leia o artigo completo sobre a criação desta API: [Como construir uma API REST com Spring Boot](https://github.com/cssturaro/to-do-list/artigo.md) 
+📘 Leia o artigo completo sobre a criação desta API: [Como construir uma API REST com Spring Boot](-----) 
 
 ---
 
